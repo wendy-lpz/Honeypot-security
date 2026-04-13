@@ -21,7 +21,7 @@ A backend API and dashboard is implemented to visualize the data.
 - Real-time dashboard
 - Attack classification
 
-## My role 
+## My Role 
 - Designed honeypot behavior
 - Implemented logging system
 - Wrote documentation and case study
