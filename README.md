@@ -1,8 +1,9 @@
 # Honeypot-security
 Cybersecurity project highlighting an SSH honeypot, attack logging, detection rules, and dashboard. 
+*This honeypot is for educational and research purposes only. Do not deploy on production systems.*
 
 ## Overview 
-This project simulates an SSH(Secure Shell) service to log attacker behavior in a controlled environment.
+This project simulates an SSH (Secure Shell) service to log attacker behavior in a controlled environment.
 The honeypot logs login attempts, commands, and session activity, then applies detection rules to categorize attacks(brute force, malware, etc.).
 A backend API and dashboard is implemented to visualize the data.
 
@@ -28,11 +29,11 @@ A backend API and dashboard is implemented to visualize the data.
 - Performed attack simulations
 - Built parser and detection logic
 
-## Tech Stack 
-- Python(honeypot and parser)
-- Node.js(backend)
-- MongoDB or PostgreSQL(database)
-- React or Next.js(dashboard)
+## Languages & Frameworks 
+- Python (honeypot and parser)
+- Node.js (backend)
+- MongoDB or PostgreSQL (database)
+- React or Next.js (dashboard)
 
 ## How It Works 
 1. Attacker connects to the honeypot
