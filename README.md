@@ -32,7 +32,10 @@ A backend API and dashboard is implemented to visualize the data.
 2. Honeypot logs commands
 3. Parser cleans logs and analyzes attacks
 4. Data is sent to the backend API
-5. Dashboard displays real-time activity 
+5. Dashboard displays real-time activity
+
+## How to install 
+
 ## Screenshots 
 
 ## Documentation 
