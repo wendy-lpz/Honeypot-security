@@ -21,14 +21,6 @@ A backend API and dashboard is implemented to visualize the data.
 - Real-time dashboard
 - Attack classification
 
-## My Role 
-- Designed honeypot behavior
-- Implemented logging system
-- Wrote documentation and case study
-- Analyzed attacker behavior
-- Performed attack simulations
-- Built parser and detection logic
-
 ## Languages & Frameworks 
 - Python (honeypot and parser)
 - Node.js (backend)
